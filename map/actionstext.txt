@@ -1,0 +1,119 @@
+Russia_Pays_1_PUs.BUTTON=1 PU
+Russia_Pays_1_PUs.DESCRIPTION=Russia pays 1 PU.
+Russia_Pays_1_PUs.NOTIFICATION_SUCCESS=Russia has paid 1 PU!
+
+Russia_Pays_2_PUs.BUTTON=2 PUs
+Russia_Pays_2_PUs.DESCRIPTION=Russia pays 2 PUs.
+Russia_Pays_2_PUs.NOTIFICATION_SUCCESS=Russia has paid 2 PUs!
+
+
+Russia_Pays_3_PUs.BUTTON=3 PUs
+Russia_Pays_3_PUs.DESCRIPTION=Russia pays 3 PUs.
+Russia_Pays_3_PUs.NOTIFICATION_SUCCESS=Russia has paid 3 PUs!
+
+
+Russia_Pays_4_PUs.BUTTON=4 PUs
+Russia_Pays_4_PUs.DESCRIPTION=Russia pays 4 PUs.
+Russia_Pays_4_PUs.NOTIFICATION_SUCCESS=Russia has paid 4 PUs!
+
+
+Russia_Pays_5_PUs.BUTTON=5 PUs
+Russia_Pays_5_PUs.DESCRIPTION=Russia pays 5 PUs.
+Russia_Pays_5_PUs.NOTIFICATION_SUCCESS=Russia has paid 5 PUs!
+
+
+Russia_Pays_6_PUs.BUTTON=6 PUs
+Russia_Pays_6_PUs.DESCRIPTION=Russia pays 6 PUs.
+Russia_Pays_6_PUs.NOTIFICATION_SUCCESS=Russia has paid 6 PUs!
+
+
+Russia_Pays_7_PUs.BUTTON=7 PUs
+Russia_Pays_7_PUs.DESCRIPTION=Russia pays 7 PUs.
+Russia_Pays_7_PUs.NOTIFICATION_SUCCESS=Russia has paid 7 PUs!
+
+
+Russia_Pays_8_PUs.BUTTON=8 PUs
+Russia_Pays_8_PUs.DESCRIPTION=Russia pays 8 PUs.
+Russia_Pays_8_PUs.NOTIFICATION_SUCCESS=Russia has paid 8 PUs!
+
+
+UK_Pays_1_PUs.BUTTON=1 PU
+UK_Pays_1_PUs.DESCRIPTION=UK pays 1 PU.
+UK_Pays_1_PUs.NOTIFICATION_SUCCESS=UK has paid 1 PU!
+
+UK_Pays_2_PUs.BUTTON=2 PUs
+UK_Pays_2_PUs.DESCRIPTION=UK pays 2 PUs.
+UK_Pays_2_PUs.NOTIFICATION_SUCCESS=UK has paid 2 PUs!
+
+
+UK_Pays_3_PUs.BUTTON=3 PUs
+UK_Pays_3_PUs.DESCRIPTION=UK pays 3 PUs.
+UK_Pays_3_PUs.NOTIFICATION_SUCCESS=UK has paid 3 PUs!
+
+
+UK_Pays_4_PUs.BUTTON=4 PUs
+UK_Pays_4_PUs.DESCRIPTION=UK pays 4 PUs.
+UK_Pays_4_PUs.NOTIFICATION_SUCCESS=UK has paid 4 PUs!
+
+
+UK_Pays_5_PUs.BUTTON=5 PUs
+UK_Pays_5_PUs.DESCRIPTION=UK pays 5 PUs.
+UK_Pays_5_PUs.NOTIFICATION_SUCCESS=UK has paid 5 PUs!
+
+
+UK_Pays_6_PUs.BUTTON=6 PUs
+UK_Pays_6_PUs.DESCRIPTION=UK pays 6 PUs.
+UK_Pays_6_PUs.NOTIFICATION_SUCCESS=UK has paid 6 PUs!
+
+
+UK_Pays_7_PUs.BUTTON=7 PUs
+UK_Pays_7_PUs.DESCRIPTION=UK pays 7 PUs.
+UK_Pays_7_PUs.NOTIFICATION_SUCCESS=UK has paid 7 PUs!
+
+
+UK_Pays_8_PUs.BUTTON=8 PUs
+UK_Pays_8_PUs.DESCRIPTION=UK pays 8 PUs.
+UK_Pays_8_PUs.NOTIFICATION_SUCCESS=UK has paid 8 PUs!
+
+
+USA_Pays_1_PUs.BUTTON=1 PU
+USA_Pays_1_PUs.DESCRIPTION=USA pays 1 PU.
+USA_Pays_1_PUs.NOTIFICATION_SUCCESS=USA has paid 1 PU!
+
+USA_Pays_2_PUs.BUTTON=2 PUs
+USA_Pays_2_PUs.DESCRIPTION=USA pays 2 PUs.
+USA_Pays_2_PUs.NOTIFICATION_SUCCESS=USA has paid 2 PUs!
+
+
+USA_Pays_3_PUs.BUTTON=3 PUs
+USA_Pays_3_PUs.DESCRIPTION=USA pays 3 PUs.
+USA_Pays_3_PUs.NOTIFICATION_SUCCESS=USA has paid 3 PUs!
+
+
+USA_Pays_4_PUs.BUTTON=4 PUs
+USA_Pays_4_PUs.DESCRIPTION=USA pays 4 PUs.
+USA_Pays_4_PUs.NOTIFICATION_SUCCESS=USA has paid 4 PUs!
+
+
+USA_Pays_5_PUs.BUTTON=5 PUs
+USA_Pays_5_PUs.DESCRIPTION=USA pays 5 PUs.
+USA_Pays_5_PUs.NOTIFICATION_SUCCESS=USA has paid 5 PUs!
+
+
+USA_Pays_6_PUs.BUTTON=6 PUs
+USA_Pays_6_PUs.DESCRIPTION=USA pays 6 PUs.
+USA_Pays_6_PUs.NOTIFICATION_SUCCESS=USA has paid 6 PUs!
+
+
+USA_Pays_7_PUs.BUTTON=7 PUs
+USA_Pays_7_PUs.DESCRIPTION=USA pays 7 PUs.
+USA_Pays_7_PUs.NOTIFICATION_SUCCESS=USA has paid 7 PUs!
+
+
+USA_Pays_8_PUs.BUTTON=8 PUs
+USA_Pays_8_PUs.DESCRIPTION=USA pays 8 PUs.
+USA_Pays_8_PUs.NOTIFICATION_SUCCESS=USA has paid 8 PUs!
+
+
+
+

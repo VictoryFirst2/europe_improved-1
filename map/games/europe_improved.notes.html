@@ -1,0 +1,43 @@
+Version: 1.8
+<br>
+<br>Know the rules before you start. Here are some useful links.
+<br>Rules: https://axisallies.com/wp-content/uploads/2014/08/axis-allies-rules-europe.pdf
+<br>Official Updates: https://axisallies.com/wp-content/uploads/2014/08/axis-allies-rules-europe-updates.pdf
+<br>FAQ: https://axisallies.com/rules/axis-allies-rules-europe1940-corrections-faqs.pdf	
+<br>
+<br>This is a modification to the Europe - Beta module. It has a couple of things fixed. Made by VictoryFirst. Here is an overview:
+<ul>
+<li>The automatic victory conditions work fully in accordance with the rulebook.
+<li>Submarines block movement and cannot move through enemy ships.</li>
+<li>Attackers are able to retreat planes from amphibious assaults.</li>
+<li>Units can be placed in enemy seas.</li>
+<li>Fighters can not be placed anymore on (newly built) carriers in the Place Units Phase.
+<li>SBRs can do unlimited damage.</li>
+<li>If doing a Strategic Bombing Raid with escorts and/or interceptors, use the following procedure: 
+<br>1. Remove any enemy AA guns that are present in the targeted territory.
+<br>2. Move all attacking aircraft to the territory.
+<br>3. Roll for AA hits using an independent die roller. Roll one die for each attacking aircraft. Remove any casualties immediately by undoing the moves.
+<br>4. Resolve the air battle and SBR attack with the engine as normal. 
+<br>5. After having resolved the SBR, add the AA gun(s) again to the territory and remove the casualties from step 3.
+<br><strong>IMPORTANT 1: These steps are only necessary if there are escorts and/or interceptors. If there are only bombers and AA guns involved, then the engine will do it correctly and you can simply follow the usual process. 
+<br>IMPORTANT 2: Note that the absence of an air battle does not mean that the engine will do it correctly. If the attacker sends escorting fighters and the defender DECLINES to intercept, then the AA gun will incorrectly not roll for the fighters, so also use the above steps in this case.</strong></li>
+<li>If Archangel is German-controlled and the Soviet Convoy Center is Russian-controlled, the Russians automatically lose 4 IPCs via a national objective to account for the elimination of the convoy center.
+<li>The Lend-Lease rule works as follows: the Russian player can decide at the end of his Non-Combat Movement Phase which units in a Russian territory with an IC to convert and use edit to replace these Allied units with Russian equivalents (optionally you can enable an automatic conversion of units in the Game Options by enabling "Give Units By Territory", but this conversion will incorrectly happen during the turns of UK/USA).</li>
+<li>Middle Eastern territories are controlled by a separate power called Middle_East. This power has no turn, no units, etc and its only purpose is to make sure the Allies cannot collect income from these territories. If Germany takes over Middle Eastern territories with PU values, there are four ways to handle the Allied IPC penalty:
+<br>1) Paid By USA: The PUs are automatically removed from the American treasury at the end of the German player's turn. You can use edit to distribute the penalty otherwise.
+<br>2) Pop-Up For Each Allied Power: Each Allied nation will receive a pop-up at the start of its turn with 8 options, each option removing 1-8 PUs from that player's hand.
+<br>3) Pop-Up For Russia Only: The Russian player will receive a pop-up at the start of his turn with 24 options, each option removing 1-8 PUs from one of the three Allied powers.
+<br>All three options can be found in the Game Options. Pop-Up For Russia Only is enabled by default. The fourth way is to simply select none of the three options and use edit to follow the rules. 
+<br>NOTE 1: The pop-ups do not show up until at least one Middle Eastern IPC territory has been captured by the Germans. 
+<br>NOTE 2: Option 1 is completely managed by the engine. As for Option 2 and 3, you have to make sure yourself that you pay the correct number of PUs. 
+<br>NOTE 3: Per the rules, the Allies have to decide how to pay the penalty at the end of Germany's turn. So when using Option 2, make sure that you state how you are going to pay the penalty at the start of the Russian turn and stick to it when the pop-ups for UK and USA show up.</li>
+<li>Adjusted some places in the place.txt.
+</ul>
+<br><strong>IMPORTANT: Defending submarines are not governed correctly by the engine. It is recommended to roll any battles that have defending submarines with an independent die roller. You can let TripleA roll the battle for you and then edit it to match the results from the independent die roller.</strong></br>
+<br>
+<br>Thanks to kwaspek104, Ragnell804, DoManMacgee, and The_Good_Captain for suggestions and playtesting.
+<br>
+<br>Credits to the original creators of this module
+<br>--------------------------------------------------
+<br><i>Credits: Triple_Elk (base-line), iron__cross (integration), Adam (convoy center code), and the rest of the team...
+<br>Converted to TripleA 1.2.x.x, and additional rules properties and fixes by Veqryn</i>
